@@ -45,6 +45,7 @@ Here are some features of this implementation:
 https://user-images.githubusercontent.com/21313710/137774469-e0ea2857-de4e-4256-bb38-7007ba338b37.mp4
 
 ## Contributors
+- [Pulak Raj](https://github.com/PulakRaj)
 - [Jacob Celestine](https://jacobcelestine.com/)
 - [Harsh Patel](https://github.com/hkp98)
-- [Pulak Raj](https://github.com/PulakRaj)
+
